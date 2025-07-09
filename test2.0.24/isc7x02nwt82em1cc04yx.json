@@ -1,0 +1,9 @@
+{
+  "_id": "isc7x02nwt82em1cc04yx",
+  "name": "Alice Brown",
+  "email": "alice@test.org",
+  "age": 28,
+  "role": "user",
+  "verified": false,
+  "createdAt": "2025-07-09T05:15:44.812Z"
+}
