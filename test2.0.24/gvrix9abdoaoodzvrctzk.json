@@ -1,0 +1,9 @@
+{
+  "_id": "gvrix9abdoaoodzvrctzk",
+  "name": "Jane Smith",
+  "email": "jane@gmail.com",
+  "age": 25,
+  "role": "user",
+  "verified": false,
+  "createdAt": "2025-07-09T05:15:43.467Z"
+}
