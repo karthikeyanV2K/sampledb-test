@@ -1,0 +1,9 @@
+{
+  "_id": "htof5lk7mpnuszeb0us6e",
+  "name": "John Doe",
+  "email": "john@example.com",
+  "age": 30,
+  "role": "admin",
+  "verified": true,
+  "createdAt": "2025-07-09T05:15:42.714Z"
+}
