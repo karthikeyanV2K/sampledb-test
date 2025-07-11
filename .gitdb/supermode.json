@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "cacheSize": 1000,
+  "batchSize": 50,
+  "compression": 6,
+  "deltaEncoding": true,
+  "graphql": true,
+  "enabledAt": "2025-07-11T03:12:33.208Z"
+}
