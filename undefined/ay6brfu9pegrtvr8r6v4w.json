@@ -1,0 +1,8 @@
+{
+  "_id": "ay6brfu9pegrtvr8r6v4w",
+  "name": "Test User",
+  "email": "test@example.com",
+  "age": 25,
+  "role": "tester",
+  "createdAt": "2025-07-11T18:57:29.657Z"
+}
